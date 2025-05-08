@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-front
-        image: 756266714368.dkr.ecr.ap-northeast-2.amazonaws.com/svelte-fast-front:1
+        image: 756266714368.dkr.ecr.ap-northeast-2.amazonaws.com/svelte-fast-front:2
