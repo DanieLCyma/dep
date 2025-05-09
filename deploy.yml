@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-front
-        image: hohoc99/spring:3
+        image: hohoc99/spring:10
